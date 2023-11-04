@@ -54,7 +54,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/hiroshiyoka/hiroshiyoka/output/snake.svg" alt="Snake animation" />
-
-###
